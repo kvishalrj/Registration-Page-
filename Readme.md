@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Project--2-Landing--Page-blue)
-# Login Page💻
+# Login Page 2.0💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 2nd live Project which is not responsive
 ### I made this project using ![HTML & CSS](https://img.shields.io/badge/HTML%20%26---CSS-blue)
